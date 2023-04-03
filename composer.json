@@ -1,12 +1,12 @@
 {
-    "name": "laravel-views/laravel-views",
+    "name": "iamkesharinandan/laravel-views",
     "description": "Laravel package to create beautiful common views like tables using only PHP code",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Gustavo Martinez",
-            "email": "gustavinho.martinez@gmail.com"
+            "name": "Keshari Nandan",
+            "email": "keshari.nandan2@gmail.com"
         }
     ],
     "require": {
